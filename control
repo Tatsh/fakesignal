@@ -1,0 +1,9 @@
+Package: sh.tat.fakesignal
+Name: Fake Signal
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Always show 5 bar signal, even when the device is deactivated off the cellular network. Do not install if you care about actually knowing your reception.
+Maintainer: Tatsh
+Author: Tatsh
+Section: Tweaks
